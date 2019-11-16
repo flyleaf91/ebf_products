@@ -19,4 +19,4 @@
 ## 产品图片
 ### i.MX RT1021开发板
 
-![野火i.MX RT1021开发板](../images/i_MX_RT/RT1021/i_MX_RT1021.jpg)
+![野火i.MX RT1021开发板](../images/imxrt/rt1021/imxrt1021.jpg)

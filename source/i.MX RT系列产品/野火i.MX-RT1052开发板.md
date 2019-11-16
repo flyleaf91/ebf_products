@@ -23,13 +23,13 @@
 ## 产品图片
 
 ### i.MX RT1052 邮票孔接口核心板
-![i.MX RT1052 邮票孔接口核心板](../images/i_MX_RT/RT1052/i_MX_RT1052_邮票孔_核心板.jpg)
+![i.MX RT1052 S1邮票孔接口核心板](../images/imxrt/rt1052/imxrt1052_s1.jpg)
 
 ### i.MX RT1052 BTB接口核心板
-![i.MX RT1052 BTB接口核心板](https://raw.githubusercontent.com/wiki/Embdefire/products/images/i_MX_RT系列产品/RT1052/i_MX_RT1052_BTB_核心板.jpg)
+![i.MX RT1052 BTB接口核心板](../images/imxrt/rt1052/imxrt1052_b1.jpg)
 
 ### i.MX RT1052 Mini板
-![i.MX RT1052 Mini板](https://raw.githubusercontent.com/wiki/Embdefire/products/images/i_MX_RT系列产品/RT1052/i_MX_RT1052_MINI底板.jpg)
+![i.MX RT1052 Mini板](../images/imxrt/rt1052/imxrt1052_mini.jpg)
 
 ### i.MX RT1052 Pro板
-![i.MX RT1052 Pro底板](https://raw.githubusercontent.com/wiki/Embdefire/products/images/i_MX_RT系列产品/RT1052/i_MX_RT1052_Pro底板.jpg)
+![i.MX RT1052 Pro底板](../images/imxrt/rt1052/imxrt1052_pro.jpg)

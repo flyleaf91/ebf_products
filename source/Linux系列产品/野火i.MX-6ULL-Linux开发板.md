@@ -18,7 +18,7 @@ _**下载时建议先只下载“0-开发板用前必读”、“1-野火开源�
 
 
 资料链接：
-* 链接：https://pan.baidu.com/s/1g5NiXLwYYEo52iARnCbG3w 
+* 链接：<https://pan.baidu.com/s/1g5NiXLwYYEo52iARnCbG3w> 
 * 提取码：u2ri 
 
 
@@ -28,13 +28,13 @@ _**下载时建议先只下载“0-开发板用前必读”、“1-野火开源�
 
 
 ### i.MX 6ULL S1 Pro底板
-![i.MX 6ULL S1 Pro底板](https://raw.githubusercontent.com/wiki/Embdefire/products/images/Linux系列产品/i_MX6ULL/i_MX_6ULL_S1_Pro底板.jpg)
+![i.MX 6ULL S1 Pro底板](../images/linux/imx6ull/imx6ull_s1_pro.jpg)
 
 ### i.MX 6ULL S1 Mini底板
-![i.MX 6ULL S1 Mini底板](https://raw.githubusercontent.com/wiki/Embdefire/products/images/Linux系列产品/i_MX6ULL/i_MX_6ULL_S1_Mini底板.jpg)
+![i.MX 6ULL S1 Mini底板](../images/linux/imx6ull/imx6ull_s1_mini.jpg)
 
 
 ### i.MX 6ULL S1 邮票孔接口核心板
-![i.MX 6ULL S1 邮票孔接口核心板1](https://raw.githubusercontent.com/wiki/Embdefire/products/images/Linux系列产品/i_MX6ULL/i_MX_6ULL_S1_邮票孔接口核心板1.jpg)
+![i.MX 6ULL S1 邮票孔接口核心板1](../images/linux/imx6ull/imx6ull_s1_pic1.jpg)
 
-![i.MX 6ULL S1 邮票孔接口核心板2](https://raw.githubusercontent.com/wiki/Embdefire/products/images/Linux系列产品/i_MX6ULL/i_MX_6ULL_S1_邮票孔接口核心板2.jpg)
+![i.MX 6ULL S1 邮票孔接口核心板2](../images/linux/imx6ull/imx6ull_s2_pic2.jpg)
