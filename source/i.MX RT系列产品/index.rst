@@ -3,13 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 野火产品资料链接's documentation!
+i.MX RT系列产品
 ============================================
 
 .. toctree::
-   :maxdepth: 2
-   i.MX RT系列产品/index
-   Linux系列产品/index
+   :maxdepth: 1
+
+   野火i.MX-RT1021开发板
+   野火i.MX-RT1052开发板
+   kernel-parameters
+
+
+
+
 
 Indices and tables
 ==================
