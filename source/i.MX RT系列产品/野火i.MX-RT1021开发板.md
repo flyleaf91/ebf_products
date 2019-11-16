@@ -1,4 +1,4 @@
-[](#野火i.MX RT1021开发板)
+[](index)
 
 # 野火i.MX RT1021开发板
 
@@ -6,18 +6,17 @@
 野火i.MX RT1021开发板配套资料：
 
 
-* 链接：https://pan.baidu.com/s/1rLoAzbNJB0yl3EfCpL6ZLg 
+* 链接：<https://pan.baidu.com/s/1rLoAzbNJB0yl3EfCpL6ZLg >
 * 提取码：7bvj 
 
 
 若上述链接失效，请直接下载以下打包压缩的版本，内容是一样的：
-* 打包的资料盘 链接：https://pan.baidu.com/s/1QsIHpGJlj2ueBcapNF15Tw 
+* 打包的资料盘 链接：<https://pan.baidu.com/s/1QsIHpGJlj2ueBcapNF15Tw> 
 * 提取码：ax5h 
 
 
 
 ## 产品图片
 ### i.MX RT1021开发板
-![野火i.MX RT1021开发板](https://raw.githubusercontent.com/wiki/Embdefire/products/images/i_MX_RT系列产品/RT1021/i_MX_RT1021.jpg)
 
-![野火i.MX RT1021开发板](../images/i_MX_RT系列产品/RT1021/i_MX_RT1021.jpg)
+![野火i.MX RT1021开发板](../images/i_MX_RT/RT1021/i_MX_RT1021.jpg)
