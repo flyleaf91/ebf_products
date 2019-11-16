@@ -16,10 +16,3 @@ i.MX RT系列产品
 
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
