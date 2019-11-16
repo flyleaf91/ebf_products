@@ -1,4 +1,4 @@
-[](野火i.MX-RT1021开发板.msd)
+[](#野火i.MX RT1021开发板)
 
 # 野火i.MX RT1021开发板
 
@@ -19,3 +19,5 @@
 ## 产品图片
 ### i.MX RT1021开发板
 ![野火i.MX RT1021开发板](https://raw.githubusercontent.com/wiki/Embdefire/products/images/i_MX_RT系列产品/RT1021/i_MX_RT1021.jpg)
+
+![野火i.MX RT1021开发板](../images/i_MX_RT系列产品/RT1021/i_MX_RT1021.jpg)
