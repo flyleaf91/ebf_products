@@ -13,7 +13,6 @@ i.MX RT系列产品
 
    野火i.MX-RT1021开发板
    野火i.MX-RT1052开发板
-   kernel-parameters
 
 
 

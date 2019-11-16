@@ -7,8 +7,9 @@
 ============================================
 
 .. toctree::
-   :maxdepth: 2
-
+   :maxdepth: 1
+   
+   STM32系列产品/index
    i.MX RT系列产品/index
    Linux系列产品/index
 
