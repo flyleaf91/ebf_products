@@ -12,6 +12,12 @@
    STM32系列产品/index
    i.MX RT系列产品/index
    Linux系列产品/index
+   模块产品/index
+   视频教程专区/index
+   上位机_QtApp/index
+   开源图书专栏/index
+..   封装库/野火所有产品的封装库
+..   更新日志/野火产品资料更新日志
 
 Indices and tables
 ==================
