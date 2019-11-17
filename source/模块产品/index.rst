@@ -24,7 +24,6 @@
    以太网/index
    音频模块/index
    杂类无线模块/index
-   传感器/index
 
 
 
