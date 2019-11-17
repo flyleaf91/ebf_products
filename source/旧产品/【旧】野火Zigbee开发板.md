@@ -1,4 +1,4 @@
-[](index)
+[](【旧】野火Zigbee开发板)
 
 # 野火Zigbee开发板
 

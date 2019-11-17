@@ -1,4 +1,4 @@
-[](index)
+[](野火i.MX-6ULL-Linux开发板)
 
 # 野火i.MX6ULL Linux开发板
 

@@ -11,8 +11,8 @@ WiFi模块
 .. toctree::
    :maxdepth: 1
    
-   野火【WiFi_ESP8266】模块资料.md   
-   野火【WiFi_RM04】模块资料.md
+   野火【WiFi_ESP8266】模块资料 
+   野火【WiFi_RM04】模块资料
 
 
 

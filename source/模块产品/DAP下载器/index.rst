@@ -11,7 +11,7 @@ DAP下载器
 .. toctree::
    :maxdepth: 1
 
-   野火【DAP下载器】.md
+   野火【DAP下载器】
 
 
 

@@ -12,7 +12,7 @@
    :maxdepth: 2
 
    DAP下载器/index
-   GSM/index
+   GSM通讯/index
    WiFi/index
    传感器/index
    电机/index
@@ -23,7 +23,7 @@
    摄像头/index
    以太网/index
    音频模块/index
-   杂类通讯模块/index
+   杂类无线模块/index
    传感器/index
 
 
