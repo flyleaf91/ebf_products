@@ -22,9 +22,3 @@
    更新日志/野火产品资料更新日志
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
