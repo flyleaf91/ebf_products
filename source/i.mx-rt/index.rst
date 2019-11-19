@@ -11,8 +11,8 @@ i.MX RT系列产品
 .. toctree::
    :maxdepth: 1
 
-   野火i.MX-RT1021开发板
-   野火i.MX-RT1052开发板
+   ebf_i.mx-rt1021
+   ebf_i.mx-rt1052
 
 
 

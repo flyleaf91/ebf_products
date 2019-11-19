@@ -6,7 +6,7 @@
 野火i.MX RT1021开发板配套资料：
 
 
-* 链接：<https://pan.baidu.com/s/1rLoAzbNJB0yl3EfCpL6ZLg >
+* 链接：<https://pan.baidu.com/s/1rLoAzbNJB0yl3EfCpL6ZLg>
 * 提取码：7bvj 
 
 
